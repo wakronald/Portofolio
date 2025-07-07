@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 0 1rem;
+  }
+  header {
+    background-color: #1f2937;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  header h1 {
+    font-size: 1.8rem;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  nav a:hover {
+    text-decoration: underline;
+  }
+  .hero {
+    background-color: #e0e7ff;
+    padding: 4rem 2rem;
+    margin-top: 2rem;
+    border-radius: 12px;
+    text-align: center;
+  }
+  .hero h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  .hero p {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+  }
+  .btn {
+    display: inline-block;
+    background-color: #4f46e5;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  .btn:hover {
+    background-color: #3730a3;
+  }
+  footer {
+    text-align: center;
+    padding: 2rem 0;
+    color: #666;
+    font-size: 0.9rem;
+  }
+  .main-nav {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  .main-nav li {
+    position: relative;
+  }
+  
+  .submenu {
+    display: none;
+    position: absolute;
+    list-style: none;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+  }
+  
+  .dropdown:hover .submenu {
+    display: block;
+  }
+  .main-nav .submenu a {
+    color: #333;
+  }
+
+  .file-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.file-list li {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.file-list li:hover {
+  background-color: #e0f0ff;
+  transform: translateY(-3px);
+}
+
+.file-list a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  display: block;
+}
+.file-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+.file-list li {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  padding: 1.2rem;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.file-list li:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background-color: #f0f8ff;
+}
+
+.file-list a {
+  text-decoration: none;
+  color: #1e3a8a;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.file-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.file-card {
+  background: linear-gradient(135deg, #f7f8fa, #e2e8f0);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.file-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+}
+
+.file-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #2d3748;
+}
+
+.file-card a {
+  display: inline-block;
+  margin-top: 0.25rem;
+  color: #2b6cb0;
+  text-decoration: none;
+}
+
+.file-card a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,74 @@
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.2rem;
+    }
+    main {
+      max-width: 960px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    .project {
+      background: white;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s ease;
+    }
+    .project:hover {
+      transform: translateY(-4px);
+    }
+    .project h2 {
+      margin-top: 0;
+      font-size: 1.6rem;
+      color: #1d4ed8;
+    }
+    .project p {
+      font-size: 1rem;
+      margin: 0.5rem 0 1rem;
+    }
+    .project a {
+      color: #10b981;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .hero {
+      text-align: center;
+      padding: 2rem;
+      background: linear-gradient(to bottom right, #f8f9fa, #e3f2fd);
+    }
+    .hero .profil {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3px solid #ddd;
+      margin-bottom: 1rem;
+    }
+    .tagline {
+      font-style: italic;
+      color: #555;
+    }

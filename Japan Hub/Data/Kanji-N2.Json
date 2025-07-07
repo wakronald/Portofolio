@@ -1,0 +1,632 @@
+[
+  {
+    "kanji": "都合",
+    "romaji": "Tsugou",
+    "arti": "Convenience / Condition",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "履歴",
+    "romaji": "Rireki",
+    "arti": "History / Background",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "判断",
+    "romaji": "Handan",
+    "arti": "Judgement",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "発想",
+    "romaji": "Hassou",
+    "arti": "Idea",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "偏り",
+    "romaji": "Katayori",
+    "arti": "Bias",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "処理",
+    "romaji": "Shori",
+    "arti": "Process",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "能率",
+    "romaji": "Nouritsu",
+    "arti": "Efficiency",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "従って",
+    "romaji": "Shitagatte",
+    "arti": "Therefore",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "快調",
+    "romaji": "Kaichou",
+    "arti": "Good Condition",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "基準",
+    "romaji": "Kijun",
+    "arti": "Standard",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "一応",
+    "romaji": "Ichiou",
+    "arti": "Once at least",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "才能",
+    "romaji": "Sainou",
+    "arti": "Talent / Ability",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "失望",
+    "romaji": "Shitsubou",
+    "arti": "Despair / Disappointment",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "状態",
+    "romaji": "Joutai",
+    "arti": "Situation / Condition",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "変動",
+    "romaji": "Hendou",
+    "arti": "Variation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "相互",
+    "romaji": "Sougo",
+    "arti": "Mutual",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "礼儀",
+    "romaji": "Reigi",
+    "arti": "Courtesy / Etiquette",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "出世",
+    "romaji": "Shusse",
+    "arti": "Promotion",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "伝統",
+    "romaji": "Dentou",
+    "arti": "Tradition",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "講演",
+    "romaji": "Kouen",
+    "arti": "Lecture",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "教育",
+    "romaji": "Kyouiku",
+    "arti": "Education",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "出席",
+    "romaji": "Shusseki",
+    "arti": "Attendance",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "助",
+    "romaji": "Suke",
+    "arti": "Assistant",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "忙し",
+    "romaji": "Isogashi",
+    "arti": "Busy",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "のろのろ",
+    "romaji": "Noronoro",
+    "arti": "Slowly",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "のんびり",
+    "romaji": "Nonbiri",
+    "arti": "Leisurely",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "評判",
+    "romaji": "Hyouban",
+    "arti": "Reputation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "評価",
+    "romaji": "Hyouka",
+    "arti": "Evaluation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "運賃",
+    "romaji": "Unchin",
+    "arti": "Fare",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "模範",
+    "romaji": "Mohan",
+    "arti": "Example",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "普段",
+    "romaji": "Fudan",
+    "arti": "Normally",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "破片",
+    "romaji": "Hahen",
+    "arti": "Fragment",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "種類",
+    "romaji": "Shurui",
+    "arti": "Type / Kind",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "清潔な",
+    "romaji": "Seiketsuna",
+    "arti": "Clean",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "勝手",
+    "romaji": "Katte",
+    "arti": "Selfishness / Convenience",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "反対",
+    "romaji": "Hantai",
+    "arti": "Opposition",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "無条件",
+    "romaji": "Mujouken",
+    "arti": "Unconditional",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "職業",
+    "romaji": "Shokugyou",
+    "arti": "Occupation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "販売",
+    "romaji": "Hanbai",
+    "arti": "Sale",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "開始",
+    "romaji": "Kaishi",
+    "arti": "Start / Commencement",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "順調",
+    "romaji": "Junchou",
+    "arti": "Favorable / Smooth progress",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "迎える",
+    "romaji": "Mukaeru",
+    "arti": "To welcome",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "進める",
+    "romaji": "Susumeru",
+    "arti": "To advance",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "開催し",
+    "romaji": "Kaisai shi",
+    "arti": "Held",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "市民",
+    "romaji": "Shimin",
+    "arti": "Citizen",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "受講",
+    "romaji": "Jukou",
+    "arti": "Taking a class",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "対象",
+    "romaji": "Taishou",
+    "arti": "Target / Object",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "影響",
+    "romaji": "Eikyou",
+    "arti": "Influence / Effect",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "与えた",
+    "romaji": "Ataeta",
+    "arti": "Gave / Provided",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "努力する",
+    "romaji": "Doryoku suru",
+    "arti": "To make an effort",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "抵抗感",
+    "romaji": "Teikoukan",
+    "arti": "Sense of resistance",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "気恥",
+    "romaji": "Kihaji",
+    "arti": "Embarrassment",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "心境",
+    "romaji": "Shinkyou",
+    "arti": "State of mind",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "複雑",
+    "romaji": "Fukuzatsu",
+    "arti": "Complicated",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "恐れます",
+    "romaji": "Osoremasu",
+    "arti": "To be afraid",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "他者",
+    "romaji": "Tasha",
+    "arti": "Others",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "隠す",
+    "romaji": "Kakusu",
+    "arti": "To hide",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "褒め",
+    "romaji": "Home",
+    "arti": "To praise",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "習い",
+    "romaji": "Narai",
+    "arti": "Habit / Learning",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "包丁",
+    "romaji": "Houchou",
+    "arti": "Kitchen knife",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "適当",
+    "romaji": "Tekitou",
+    "arti": "Suitable / Appropriate",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "自己紹介",
+    "romaji": "Jiko shoukai",
+    "arti": "Self-introduction",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "冶金",
+    "romaji": "Yakin",
+    "arti": "Metallurgy",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "素晴らしい",
+    "romaji": "Subarashii",
+    "arti": "Wonderful",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "背景",
+    "romaji": "Haikei",
+    "arti": "Background",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "改善",
+    "romaji": "Kaizen",
+    "arti": "Improvement",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "注意深く",
+    "romaji": "Chuuibukaku",
+    "arti": "Carefully",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "意識的",
+    "romaji": "Ishikiteki",
+    "arti": "Consciously",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "集中",
+    "romaji": "Shuuchuu",
+    "arti": "Concentration",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "挑戦",
+    "romaji": "Chousen",
+    "arti": "Challenge",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "精神",
+    "romaji": "Seishin",
+    "arti": "Spirit / Mind",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "記憶力",
+    "romaji": "Kiokuryoku",
+    "arti": "Memory (ability)",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "自信",
+    "romaji": "Jishin",
+    "arti": "Confidence",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "応募",
+    "romaji": "Oubou",
+    "arti": "Application",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "過去",
+    "romaji": "Kako",
+    "arti": "Past",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "得意",
+    "romaji": "Tokui",
+    "arti": "Good at",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "目標",
+    "romaji": "Mokuhyou",
+    "arti": "Goal / Target",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "意欲",
+    "romaji": "Iyoku",
+    "arti": "Motivation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "直面した",
+    "romaji": "Chokumen shita",
+    "arti": "Faced",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "状況",
+    "romaji": "Joukyou",
+    "arti": "Situation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "乗り越えた",
+    "romaji": "Norikoeta",
+    "arti": "Overcame",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "訓練",
+    "romaji": "Kunren",
+    "arti": "Training",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "両方",
+    "romaji": "Ryouhou",
+    "arti": "Both",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "分析",
+    "romaji": "Bunseki",
+    "arti": "Analysis",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "習得",
+    "romaji": "Shuutoku",
+    "arti": "Mastery / Learning",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "失敗談",
+    "romaji": "Shippaidan",
+    "arti": "Failure story",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "最中",
+    "romaji": "Saichuu",
+    "arti": "In the middle of",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "具体性",
+    "romaji": "Gutaisei",
+    "arti": "Specificity",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "成功",
+    "romaji": "Seikou",
+    "arti": "Success",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "特別",
+    "romaji": "Tokubetsu",
+    "arti": "Special",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "革新",
+    "romaji": "Kakushin",
+    "arti": "Innovation",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "事業",
+    "romaji": "Jigyou",
+    "arti": "Business",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "普通",
+    "romaji": "Futsuu",
+    "arti": "Normal",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "補給",
+    "romaji": "Hokyuu",
+    "arti": "Supply",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "育った",
+    "romaji": "Sodatta",
+    "arti": "Grew up",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "留守",
+    "romaji": "Rusu",
+    "arti": "Absence",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "市場",
+    "romaji": "Ichiba",
+    "arti": "Market",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "拡充",
+    "romaji": "Kakujuu",
+    "arti": "Expansion",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "近年",
+    "romaji": "Kinnen",
+    "arti": "Recent years",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "進歩",
+    "romaji": "Shinpo",
+    "arti": "Progress",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "著しい",
+    "romaji": "Ichijirushii",
+    "arti": "Remarkable",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "声援",
+    "romaji": "Seien",
+    "arti": "Cheering / Support",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "傾いて",
+    "romaji": "Katamuite",
+    "arti": "Tilted",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "故郷",
+    "romaji": "Furusato",
+    "arti": "Hometown",
+    "jlpt": "N2"
+  },
+  {
+    "kanji": "豊か",
+    "romaji": "Yutaka",
+    "arti": "Abundant",
+    "jlpt": "N2"
+  }
+]

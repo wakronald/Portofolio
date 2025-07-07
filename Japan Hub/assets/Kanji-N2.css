@@ -1,0 +1,86 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2c3e50;
+    padding: 15px 30px;
+    color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    flex-wrap: wrap;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    margin: 0;
+    color: #ecf0f1;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+  }
+  
+  nav ul li a {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #1abc9c;
+  }
+
+.kanji-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    padding: 20px;
+  }
+  
+  .kanji-card {
+    background-color: #f4f4f4;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+  }
+  
+  .kanji-card:hover {
+    transform: scale(1.05);
+  }
+  .kanji-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .kanji-card {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+    text-align: center;
+  }
+  
+  .kanji-card:hover {
+    transform: translateY(-4px);
+  }
+  
+  .kanji-symbol {
+    font-size: 3.2rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .kanji-info p {
+    margin: 5px 0;
+    font-size: 0.95rem;
+    color: #333;
+  }

@@ -1,0 +1,11 @@
+*.pdf
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Node/npm kalau nanti kamu pakai
+node_modules/
+dist/
+build/
