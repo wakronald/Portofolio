@@ -6,8 +6,60 @@
   <meta name="description" content="Portofolio Ronald Sitorus - Developer & Jepang Enthusiast" />
   <title>Portofolio Ronald Sitorus</title>
   <link rel="stylesheet" href="./assets/style.css" />
+  <style>
+    .navbar {
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: 1rem 2rem;
+    }
+    .nav-links {
+      list-style: none;
+      display: flex;
+      gap: 1.5rem;
+    }
+    .nav-links a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+      transition: color 0.3s;
+    }
+    .nav-links a:hover {
+      color: #007bff;
+    }
+    .hero {
+      text-align: center;
+      padding: 3rem 1rem 2rem;
+      background: linear-gradient(to bottom right, #f8f9fa, #e3f2fd);
+    }
+    .hero .profil {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3px solid #ddd;
+      margin-bottom: 1rem;
+    }
+    .tagline {
+      font-style: italic;
+      color: #555;
+    }
+  </style>
 </head>
 <body>
+  <div class="navbar">
+    <nav>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="./Japan Hub/index.html">JapanHub</a></li>
+        <li><a href="tulisan.html">Tulisan Ronald</a></li>
+        <li><a href="metalurgi.html">Metalurgi</a></li>
+        <li><a href="jerman.html">Bahasa Jerman</a></li>
+        <li><a href="miniprojects.html">Mini Projects</a></li>
+      </ul>
+    </nav>
+  </div>
+
   <header class="hero">
     <img src="./assets/Paspoto.jpg" alt="Foto Ronald" class="profil" />
     <h1>Ronald Sitorus</h1>
@@ -17,7 +69,7 @@
   <main>
     <section id="about">
       <h2>Tentang Saya</h2>
-      <p>Hello world, nama saya Ronald Sitorus, saya sedang berusaha menjadi seorang software engineering dan hopefully penulis hehe. Berikut Webpage taman bermain saya. Selamat menikmati</p>
+      <p>Saya Ronald, seorang pengembang web yang suka belajar bahasa Jepang dan menciptakan website informatif dan rapi. Saat ini sedang membangun JapanHub sebagai proyek pembelajaran dan portofolio.</p>
     </section>
 
     <section id="skills">
@@ -25,9 +77,9 @@
       <ul class="skills">
         <li>HTML/CSS ⭐⭐⭐☆☆</li>
         <li>JavaScript ⭐⭐⭐☆☆</li>
-        <li>Git & GitHub ⭐☆☆☆</li>
-        <li>Tailwind CSS ⭐⭐☆☆☆</li>
-        <li>Bahasa Jepang ⭐⭐⭐☆☆</li>
+        <li>Git & GitHub ⭐⭐⭐☆☆</li>
+        <li>Tailwind CSS ⭐⭐⭐☆☆</li>
+        <li>Bahasa Jepang ⭐⭐☆☆☆</li>
       </ul>
     </section>
 
@@ -39,25 +91,25 @@
         <a href="./Japan Hub/index.html">Kunjungi Project &rarr;</a>
       </div>
       <div class="project">
-        <h3>Tulisan Ronald</h3>
-        <p>The journey of future writer begin</p>
+        <h3>Coming Soon: Sibondong</h3>
+        <p>Toko kelontong online ronald</p>
       </div>
       <div class="project">
-        <h3>Learn German</h3>
-        <p>I like learning new language</p>
+        <h3>Mini project by ronald</h3>
+        <p>Beberapa maha karya yang tidak seberapa</p>
+        <a href="mini project/index.html">"Kunjungi project"</a>
       </div>
     </section>
 
     <section id="contact">
       <h2>Kontak</h2>
-      <p>📩 Email: ronaldtoruz@gmail.com</p>
-      <p>💻 GitHub: <a href="https://github.com/ronald" target="_blank">github.com/ronald</a></p>
-      <p>Medium:<a href="https://medium.com/@ichbinronald059" target="_blank">medium.com@ichbinronald059/</a></p>
+      <p>📩 Email: ronald@email.com</p>
+      <p>💻 GitHub: <a href="https://github.com/ronald" target="_blank">github.com/wakronald</a></p>
     </section>
   </main>
 
   <footer>
-    <p>&copy; 2025 Ronald Sitorus - Dibuat dengan semangat & kopi ☕</p>
+    <p>&copy; 2025 Ronald Sitorus - Dibuat dengan semangat & kopi, juga ChatGPT ☕</p>
   </footer>
 </body>
 </html>
